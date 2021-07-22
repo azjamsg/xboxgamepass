@@ -6,3 +6,12 @@
 i have used bigpay
 
 ##Step 3: [Download xbox app from microsoft store] (https://www.xbox.com/en-sg/apps/xbox-app-for-windows-10)
+
+##Step 4: Sign in xbox app using MS account. Setup xbox live account with avatar and gamer handle.
+Preferably to create a new MS account for Xbox gaming or use a already setup one.
+
+##Step 5: [Download EA Desktop app] (https://www.ea.com/ea-app-beta).
+
+##Step 6: Sign in EA Desktop app using xbox live sign in details as per Step 4
+
+##Step 7: Download the game you want to play using the EA Desktop app
