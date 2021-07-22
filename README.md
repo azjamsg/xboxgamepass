@@ -5,4 +5,4 @@
 ##Step 2 : Sign up and pay using paypal or cc (safer to use paypal and use bigpay/singtel dash/grab pay) 
 i have used bigpay
 
-##Step 3: Download xbox app from microsoft store 
+##Step 3: [Download xbox app from microsoft store] (https://www.xbox.com/en-sg/apps/xbox-app-for-windows-10)
